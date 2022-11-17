@@ -1,3 +1,25 @@
 <resources>
     <string name="app_name">SpinnerTestApplication</string>
+    <string name="first_name">first name</string>
+    <string name="last_name">last name</string>
+    <string name="start_your_adventure_now">start your adventure now</string>
+    <string-array name="guns_list">
+        <item>G36C Rifle</item>
+        <item>MG3 LMG</item>
+        <item>M16A4</item>
+        <item>AKM</item>
+        <item>M416</item>
+        <item>SCAR-L</item>
+        <item>UMP9</item>
+        <item>UMP9</item>
+        <item>UMP9</item>
+        <item>UMP9</item>
+        <item>UMP9</item>
+        <item>UMP9</item>
+        <item>UMP9</item>
+        <item>UMP9</item>
+        <item>UMP9</item>
+        <item>S12K</item>
+        <item>Decoy Grenade</item>
+    </string-array>
 </resources>
